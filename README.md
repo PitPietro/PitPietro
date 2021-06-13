@@ -4,7 +4,7 @@
 
 <hr/>
 
-## Projects
+## Projects
 
 ### Software
 
@@ -12,14 +12,10 @@
 
 ### Hardware
 
-### ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![raspberry_pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white)
 
-
-
-### ![raspberry_pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white)
-
-## About me
-
+## About Me
 
 
 ## Contact
