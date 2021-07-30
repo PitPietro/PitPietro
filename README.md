@@ -6,34 +6,22 @@
 
 ## Open Source Projects
 
-Here is the list of the frameworks I'm currently styding (checked ones) and that I want to study (not checked ones):
+### client-generator
 
-- [x] ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)
-- [x] ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
-- [ ] ![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+As its [README](https://github.com/api-platform/client-generator/blob/main/README.md) says, **API Platform Client Generator** is a generator to scaffold app with **Create-Retrieve-Update-Delete** features for any **API** exposing a [Hydra](http://www.hydra-cg.com/spec/latest/core/) or [OpenAPI](https://www.openapis.org/) documentation for:
 
-### Software
+* Next.js
+* Nuxt.js
+* Quasar Framework
+* React/Redux
+* React Native
+* TypeScript Interfaces
+* Vue.js
+* Vuetify.js
 
+This list is missing an important frontend framework: [Angular](https://angular.io/).
 
-
-![c](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-
-![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
-
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-
-#007396
-
-
-
-### Hardware
-
-| ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) | ![raspberry_pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-
-
-
-
+As I need it in the company where I'm currently working, I'm contributing to `angular-material` version of [client-generator](https://github.com/luca-nardelli/client-generator/tree/angular-material) project developed by [api-platform](https://github.com/api-platform). This version is not yet being merged to the `main` branch of the repository since it's currently under development!
 
 
 
