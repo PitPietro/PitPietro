@@ -1,27 +1,12 @@
 # Pietro Poluzzi 🧑‍💻
 
-
-
-<hr/>
-
 ## Open Source Projects
 
-### client-generator
+### [client-generator](https://github.com/api-platform/client-generator)
 
-As its [README](https://github.com/api-platform/client-generator/blob/main/README.md) says, **API Platform Client Generator** is a generator to scaffold app with **Create-Retrieve-Update-Delete** features for any **API** exposing a [Hydra](http://www.hydra-cg.com/spec/latest/core/) or [OpenAPI](https://www.openapis.org/) documentation for:
+As its [README](https://github.com/api-platform/client-generator/blob/main/README.md) says, **API Platform Client Generator** is a generator to scaffold app with **Create-Retrieve-Update-Delete** features for any **API** exposing a [Hydra](http://www.hydra-cg.com/spec/latest/core/) or [OpenAPI](https://www.openapis.org/) documentation for a lot of frontend frameworks except for [Angular](https://angular.io/).
 
-* Next.js
-* Nuxt.js
-* Quasar Framework
-* React/Redux
-* React Native
-* TypeScript Interfaces
-* Vue.js
-* Vuetify.js
-
-This list is missing an important frontend framework: [Angular](https://angular.io/).
-
-As I need it in the company where I'm currently working, I'm contributing to `angular-material` version of [client-generator](https://github.com/luca-nardelli/client-generator/tree/angular-material) project developed by [api-platform](https://github.com/api-platform). This version is not yet being merged to the `main` branch of the repository since it's currently under development!
+As I need it in the company where I'm currently working, I'm contributing to `angular-material` version of [client-generator](https://github.com/luca-nardelli/client-generator/tree/angular-material) project developed by [api-platform](https://github.com/api-platform) and forked by [Luca Nardelli](https://github.com/luca-nardelli). (Currently under development.).
 
 
 
