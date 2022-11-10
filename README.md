@@ -2,7 +2,7 @@
 
 ## Open Source Projects
 
-### [client-generator](https://github.com/api-platform/client-generator)
+### Client Generator
 
 As its [README](https://github.com/api-platform/client-generator/blob/main/README.md) says, **API Platform Client Generator** is a generator to scaffold app with **Create-Retrieve-Update-Delete** features for any **API** exposing a [Hydra](http://www.hydra-cg.com/spec/latest/core/) or [OpenAPI](https://www.openapis.org/) documentation for a lot of frontend frameworks except for [Angular](https://angular.io/).
 
